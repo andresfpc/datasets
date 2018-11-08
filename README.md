@@ -1,2 +1,2 @@
 # andresfpc datasets
-A repository for sharing and usind interesting datasets
+A repository for sharing and using interesting datasets
